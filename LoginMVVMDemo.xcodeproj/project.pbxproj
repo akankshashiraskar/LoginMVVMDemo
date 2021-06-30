@@ -101,6 +101,11 @@
 		34481F61268C73130059861C /* LoginMVVMDemo */ = {
 			isa = PBXGroup;
 			children = (
+				34481F9C268CAA060059861C /* Extensions */,
+				34481F9B268CA6D40059861C /* View Model */,
+				34481F9A268CA6C90059861C /* View */,
+				34481F99268CA6AB0059861C /* Model */,
+				34481F98268CA64E0059861C /* Utilities */,
 				34481F62268C73130059861C /* AppDelegate.swift */,
 				34481F64268C73130059861C /* SceneDelegate.swift */,
 				34481F66268C73130059861C /* ViewController.swift */,
@@ -129,6 +134,41 @@
 				34481F89268C73180059861C /* Info.plist */,
 			);
 			path = LoginMVVMDemoUITests;
+			sourceTree = "<group>";
+		};
+		34481F98268CA64E0059861C /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		34481F99268CA6AB0059861C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		34481F9A268CA6C90059861C /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		34481F9B268CA6D40059861C /* View Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "View Model";
+			sourceTree = "<group>";
+		};
+		34481F9C268CAA060059861C /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

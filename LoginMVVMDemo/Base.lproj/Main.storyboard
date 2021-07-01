@@ -21,6 +21,7 @@
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="17U-eH-Y1j">
                                         <rect key="frame" x="110" y="52" width="194" height="130"/>
+                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="130" id="H6R-ZA-UbJ"/>
                                         </constraints>
@@ -69,6 +70,7 @@
                                                     </label>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1UX-pf-bvW">
                                                         <rect key="frame" x="234" y="0.0" width="54" height="30"/>
+                                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <state key="normal" title="Sign Up">
                                                             <color key="titleColor" red="0.037807642490000001" green="0.037807642490000001" blue="0.037807642490000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         </state>
